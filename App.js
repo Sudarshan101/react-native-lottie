@@ -26,7 +26,7 @@ const App = () => {
           loop
         />
       </View>
-      <Text style={styles.smallText}>www.aboutreact.com</Text>
+      <Text style={styles.smallText}>www.codesolution.co.in</Text>
     </SafeAreaView>
   );
 };
